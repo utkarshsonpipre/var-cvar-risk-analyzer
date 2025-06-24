@@ -5,4 +5,4 @@ numpy==1.26.4
 scipy==1.13.1
 yfinance==0.2.40
 pytest==8.2.2
-ruff==ruff==0.4.4
+ruff==0.4.4
