@@ -1,4 +1,3 @@
-![Screenshot_30-6-2025_205622_localhost](https://github.com/user-attachments/assets/724716e0-18f7-4f90-81ce-a969c1d0311d)
 # 📉 VaR-CVaR Risk Analyzer (Streamlit App)
 
 The **VaR-CVaR Risk Analyzer** is a Streamlit-based financial analytics dashboard that helps quantify risk in stock portfolios. It supports three powerful statistical methods to calculate **Value at Risk (VaR)** and **Conditional Value at Risk (CVaR)**:
